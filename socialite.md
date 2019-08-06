@@ -41,6 +41,7 @@ Before using Socialite, you will also need to add credentials for the OAuth serv
     ],
 
 > {tip} If the `redirect` option contains a relative path, it will automatically be resolved to a fully qualified URL.
+> {tip} If you are using 'facebook' as key, you must use https connection.
 
 <a name="routing"></a>
 ## Routing
